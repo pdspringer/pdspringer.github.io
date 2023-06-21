@@ -1,4 +1,6 @@
 body {
   background-color: #509ff9;
   color: #ffc096;
+  margin: 0 auto;
+  max-width: 50em;
 }
