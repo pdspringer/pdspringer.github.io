@@ -12,12 +12,12 @@ header {
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
 body {
   background-color: #509ff9;
-  color: #f9e550;
+  color: #ffc096;
   margin: 0 auto;
   max-width: 50em;
   font-family: 'IBM Plex Serif', serif;
 }
 
 a {
-  color: #f95077;
+  color: #d5fc73;
 }
