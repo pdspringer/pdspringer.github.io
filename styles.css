@@ -11,7 +11,7 @@ header {
 
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');
 body {
-  background-color: #509ff9;
+  background-color: #1AB5E6;
   color: #ffc096;
   margin: 0 auto;
   max-width: 50em;
@@ -19,5 +19,5 @@ body {
 }
 
 a {
-  color: #77fc73;
+  color: #EBC246;
 }
